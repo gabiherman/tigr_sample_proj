@@ -1,0 +1,13 @@
+---
+title: "A Sample Project for Lab Meeting analyses"
+author: "Gabi Herman"
+date: "`r Sys.Date()`"
+output: bookdown::gitbook
+github-repo: https://github.com/gabiherman/tigr_sample_proj
+description: "Making a sample project to share with the lab! "
+fontsize: 10pt
+monofontoptions: "Scale=0.5"
+classoption: landscape
+---
+
+# The index page
