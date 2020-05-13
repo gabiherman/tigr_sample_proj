@@ -6,7 +6,7 @@ delete_merged_file: true
 new_session: yes
 rmd_files: [
   "index.Rmd",
-  #INSERT LIST OF RMD FILES HERE!!
+  "01_plot_mtcars.Rmd"
 ]
 download: no
 sharing: no
